@@ -1,0 +1,26 @@
+{
+  "citations": [
+    "[yahoo.com](https://finance.yahoo.com)",
+    "[blog.google](https://blog.google)",
+    "[scmedia.com](https://www.scmagazine.com)",
+    "[realestatenews.com](https://www.realestatenews.com)",
+    "[housingwire.com](https://www.housingwire.com)"
+  ],
+  "design_plan": "rng=42; audience=real_estate_agents; AIDA_pass=true; hero_lines=3; hero_max_width=1120px; bento_density=grid-auto-flow:dense; competitors_sweep=folk,orchids,siri,chatgpt,gemini,grok; button_contrast=ok",
+  "generated_at": "2026-07-04T05:06:11.953139+00:00",
+  "headline": "Super for real estate agents managing follow-ups, listings, and scheduling",
+  "site_brief": {
+    "audience": "real estate agents managing follow-ups, listings, and scheduling",
+    "goal": "Create a conversion-focused landing page for this audience. Tie current market evidence to pain points, then show how Super can operate apps and reuse a computer-use cache for repeated work.",
+    "kind": "niche_landing",
+    "queries": [
+      "real estate agents managing follow-ups, listings, and scheduling AI assistant",
+      "real estate agents managing follow-ups, listings, and scheduling personal AI agent",
+      "computer use AI agent",
+      "AI workflow automation"
+    ],
+    "slug": "super-for-real-estate-agents-managing-follow-ups-listings",
+    "title": "Super for real estate agents managing follow-ups, listings, and scheduling"
+  },
+  "summary": "A conversion-focused niche landing page for real estate agents who need an AI that actually operates their CRM, MLS portals, email, and calendar. Super is positioned as the sharper alternative for durable computer-use workflows thanks to its reusable computer-use cache \u2014 built for repeated follow-ups, listing updates, and scheduling."
+}
